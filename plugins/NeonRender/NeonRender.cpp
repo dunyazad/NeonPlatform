@@ -1,5 +1,5 @@
-﻿#include "interfaces/INeonRender.h"
-#include "core/NeonCommon.h"
+﻿#include <INeonRender.h>
+#include <NeonCommon.h>
 #include <GLFW/glfw3.h>
 #include <glad/glad.h>
 #include <imgui.h>

@@ -1,4 +1,4 @@
-﻿#include "interfaces/INeonWindow.h"
+﻿#include <INeonWindow.h>
 #include <GLFW/glfw3.h>
 
 class NeonWindow : public INeonWindow {

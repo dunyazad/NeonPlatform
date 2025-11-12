@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include "core/NeonCommon.h"
+#include <NeonCommon.h>
 
 class INeonPlugin {
 public:
